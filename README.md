@@ -19,7 +19,13 @@
 
 Mobile:
 
+<img width="393" alt="image" src="https://user-images.githubusercontent.com/14813235/209955952-389a6e69-da8c-41d5-bb89-aaa8ec741167.png">
+
+
 Desktop:
+
+<img width="1189" alt="image" src="https://user-images.githubusercontent.com/14813235/209956061-9447428a-c285-460f-ba0a-c33cb6ff8e9d.png">
+
 
 ---
 
