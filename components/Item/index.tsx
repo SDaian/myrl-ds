@@ -52,7 +52,7 @@ export const Item = ({
           <button
             className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline'
             type='button'
-            onClick={() => console.log('search')} // refetch(filters)
+            onClick={() => console.log('Add to Cart')}
           >
             Añadir
           </button>

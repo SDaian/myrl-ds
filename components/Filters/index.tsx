@@ -27,7 +27,12 @@ export const Filters = ({ filters, setFilters }: Props) => {
         <input
           className='pl-10 shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline'
           onChange={debounce((e: ChangeEvent<HTMLInputElement>) => {
-            setFilters({ ...filters, text: e.target.value });
+            if (e.target.value.trim() !== '') {
+              setFilters({ ...filters, text: e.target.value });
+            } else {
+              e.target.value = '';
+              setFilters({ ...filters, text: '' });
+            }
           }, 500)}
           placeholder='Search products'
           type='string'
@@ -42,7 +47,6 @@ export const Filters = ({ filters, setFilters }: Props) => {
           className='select'
           defaultValue={'asc'}
           onChange={debounce((e: ChangeEvent<HTMLInputElement>) => {
-            console.log(e.target.value);
             setFilters({ ...filters, order: e.target.value });
           }, 100)}
         >
