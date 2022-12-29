@@ -1,3 +1,28 @@
+## Mayoral FE Challenge
+
+## Tech stack
+
+- React
+- Typescript
+- Next.JS
+- TailwindCSS
+- Jest
+
+## Commands
+
+- `npm install` to install all needed dependencies.
+- `npm run dev` to start a dev server.
+- `npm run test` to start the test suite.
+- `npm run lint` to find potential issues on the codebase.
+
+## Screenshots
+
+Mobile:
+
+Desktop:
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

@@ -1,0 +1,188 @@
+[
+  {
+    "id": 2,
+    "image": "chaqueta-de-tricot.jpg",
+    "title": "Jersey",
+    "price": 19.95
+  },
+  {
+    "id": 3,
+    "image": "body.jpg",
+    "title": "Cardigan",
+    "price": 9.95
+  },
+  {
+    "id": 4,
+    "image": "chaqueta-de-tricotosa.jpg",
+    "title": "Chaqueta",
+    "price": 49.95,
+    "hasDiscount": true,
+    "priceAfterDiscount": 32.95
+  },
+  {
+    "id": 5,
+    "image": "pantalon-de-vestir.jpg",
+    "title": "Pantalon",
+    "price": 14.95
+  },
+  {
+    "id": 6,
+    "image": "conjunto-pantalon-corto.jpg",
+    "title": "Conjunto",
+    "price": 9.95
+  },
+  {
+    "id": 7,
+    "image": "camisa-manga-larga.jpg",
+    "title": "Cardigan",
+    "price": 39.95,
+    "hasDiscount": true,
+    "priceAfterDiscount": 32.95
+  },
+  {
+    "id": 8,
+    "image": "body.jpg",
+    "title": "Jersey",
+    "price": 169.95,
+    "hasDiscount": true,
+    "priceAfterDiscount": 132.95
+  },
+  {
+    "id": 9,
+    "image": "body.jpg",
+    "title": "Jersey",
+    "price": 29.95
+  },
+  {
+    "id": 10,
+    "image": "chaqueta-de-tricot.jpg",
+    "title": "Chaqueta",
+    "price": 79.95
+  },
+  {
+    "id": 11,
+    "image": "conjunto-con-pantalon.jpg",
+    "title": "Conjunto",
+    "price": 149.95
+  },
+  {
+    "id": 12,
+    "image": "conjunto-peto-con-camisa.jpg",
+    "title": "Conjunto",
+    "price": 19.95
+  },
+  {
+    "id": 13,
+    "image": "body.jpg",
+    "title": "Cardigan",
+    "price": 199.95
+  },
+  {
+    "id": 14,
+    "image": "conjunto-pantalon-corto.jpg",
+    "title": "Conjunto",
+    "price": 119.95
+  },
+  {
+    "id": 15,
+    "image": "chaqueta-de-tricotosa.jpg",
+    "title": "Chaqueta",
+    "price": 69.95
+  },
+  {
+    "id": 16,
+    "image": "body.jpg",
+    "title": "Jersey",
+    "price": 29.95
+  },
+  {
+    "id": 17,
+    "image": "camisa-manga-larga-2.jpg",
+    "title": "Cardigan",
+    "price": 199.95
+  },
+  {
+    "id": 18,
+    "image": "conjunto-peto-con-camisa.jpg",
+    "title": "Conjunto",
+    "price": 149.95
+  },
+  {
+    "id": 19,
+    "image": "chaqueta-de-tricot.jpg",
+    "title": "Chaqueta",
+    "price": 99.95
+  },
+  {
+    "id": 20,
+    "image": "conjunto-con-pantalon.jpg",
+    "title": "Conjunto",
+    "price": 79.95
+  },
+  {
+    "id": 21,
+    "image": "chaqueta-de-tricotosa.jpg",
+    "title": "Chaqueta",
+    "price": 49.95
+  },
+  {
+    "id": 22,
+    "image": "body.jpg",
+    "title": "Jersey",
+    "price": 99.95
+  },
+  {
+    "id": 23,
+    "image": "conjunto-pantalon-corto.jpg",
+    "title": "Conjunto",
+    "price": 9.95
+  },
+  {
+    "id": 24,
+    "image": "chaqueta-de-tricotosa.jpg",
+    "title": "Chaqueta",
+    "price": 49.95
+  },
+  {
+    "id": 25,
+    "image": "body.jpg",
+    "title": "Cardigan",
+    "price": 49.95
+  },
+  {
+    "id": 26,
+    "image": "camisa-manga-larga.jpg",
+    "title": "Jersey",
+    "price": 29.95
+  },
+  {
+    "id": 27,
+    "image": "chaqueta-de-tricot.jpg",
+    "title": "Chaqueta",
+    "price": 39.95
+  },
+  {
+    "id": 28,
+    "image": "mocasin.jpg",
+    "title": "Mocasin",
+    "price": 49.95
+  },
+  {
+    "id": 29,
+    "image": "zapato-bota.jpg",
+    "title": "Zapato Bota",
+    "price": 49.95
+  },
+  {
+    "id": 30,
+    "image": "mocasin.jpg",
+    "title": "Mocasin Negro",
+    "price": 29.95
+  },
+  {
+    "id": 31,
+    "image": "pantalon-de-vestir.jpg",
+    "title": "Pantalon",
+    "price": 39.95
+  }
+]
